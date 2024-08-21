@@ -1,8 +1,9 @@
 # Bot Development Guide
 
 This guide covers the stages for creating bots on various platforms: WhatsApp, Discord, Twitter, and Telegram.
-
+# Bot Integration Flow Diagram
 ![Bot Integration Flow Diagram](./assets/botDiagram.png)
+# Bot with LLM Integration Flow Diagram
 ![Bot with LLM Integration Flow Diagram](./assets/advbotdiagram.png)
 
 ## 1. WhatsApp Bot
